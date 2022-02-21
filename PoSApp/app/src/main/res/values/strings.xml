@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PoSApp</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Command_center_textView">Command Center</string>
+    <string name="Command_center_NewOrder_btn">New Order</string>
+    <string name="Command_center_AddProduct_btn">Add Product</string>
+    <string name="Login_activity_rememberme_checkbox">Remember Me</string>
+    <string name="preference_file_key">com.example.posapp.secret_pref</string>
+    <string name="credential_stored_key">credential_stored_key</string>
+    <string name="username_key">username_key</string>
+    <string name="password_key">password_key</string>
+
+    <string name="_10000">10000</string>
+    <string name="_00001">00001</string>
+    <string name="submit_order">Submit Order</string>
+    <string name="retrieve_order">Retrieve Order</string>
+    <string name="item_name">Item Name</string>
+    <string name="item_price">Item Price</string>
+    <string name="total_price_textView">Total = %d</string>
+    <string name="stamford_pos_application">Stamford POS Application</string>
+    <string name="user">User:</string>
+    <string name="password">Password:</string>
+    <string name="loginbtnstring">Login</string>
+    <string name="possettingheader">Stamford POS Setting</string>
+    <string name="ordermanagerstring">OrderManager</string>
+    <string name="uploaddailyreportstring">Upload Daily Report</string>
+    <string name="retrieveorderString">Retrieve orderes from remote server</string>
+    <string name="uploadimagetoremotesserver">upload image to remote server</string>
+    <string name="submitorderstring">submit orders to remote server</string>
+    <string name="playmusicstring">play music in background</string>
+    <string name="stopmusicstring">stop music in background</string>
+    <string name="searchcontactString">Search Contact</string>
+    <string name="macaronString">macaron</string>
+    <string name="drinkstring">Drinks</string>
+    <string name="dessertstring">desserts</string>
+    <string name="icecreamstring">ice-creams</string>
+    <string name="thaidishstring">thai dishes</string>
+    <string name="fruitstring">fruits</string>
+    <string name="choosecategory">choose a category</string>
+    <string name="branchIDString">BranchID:</string>
+    <string name="staffIDString">StaffID:</string>
+
+</resources>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PoSApp</string>
+    <string name="Command_center_textView">ตัวจัดการกลาง</string>
+    <string name="Command_center_NewOrder_btn">เพิ่มออร์เดอร์ใหม่</string>
+    <string name="Command_center_AddProduct_btn">เพิ่มสินค้าใหม่</string>
+    <string name="Login_activity_rememberme_checkbox">จดจำฉัน</string>
+    <string name="submit_order">ส่งออร์เดอร์</string>
+    <string name="retrieve_order">รับออร์เดอร์</string>
+    <string name="item_name">ชื่อสินค้า</string>
+    <string name="item_price">ราคาสินค้า</string>
+    <string name="total_price_textView">ทั้งหมด = %d</string>
+    <string name="stamford_pos_application">แสตมฟอร์ด พีโอเอส แอพลิเคชั่น</string>
+    <string name="user">ชื่อผู้ใช้งาน</string>
+    <string name="password">รหัสผ่าน</string>
+    <string name="loginbtnstring">เข้าสู่ระบบ</string>
+    <string name="possettingheader">การตั้งค่า</string>
+    <string name="ordermanagerstring">จัดการออร์เดอร์</string>
+    <string name="uploaddailyreportstring">อัพโหลดรายการขาย</string>
+    <string name="retrieveorderString">รับออร์เดอร์จากเซริฟเวอร์</string>
+    <string name="uploadimagetoremotesserver">อัพโหลดรูปภาพเข้าเซริฟเวแร์</string>
+    <string name="submitorderstring">ยืนยันออร์เดอร์</string>
+    <string name="playmusicstring">เปิดเพลง</string>
+    <string name="stopmusicstring">ปิดเพลง</string>
+    <string name="searchcontactString">หารายชื่อ</string>
+    <string name="macaronString">มาคารอง</string>
+    <string name="drinkstring">เครื่องดื่ม</string>
+    <string name="dessertstring">ของหวาน</string>
+    <string name="icecreamstring">ไอศครีม</string>
+    <string name="thaidishstring">อาหารไทย</string>
+    <string name="fruitstring">ผลไม้</string>
+    <string name="choosecategory">เลือกหมวดหมู่สินค้า</string>
+    <string name="branchIDString">"สาขา: "</string>
+    <string name="staffIDString">"เลขพนักงาน: "</string>
+</resources>
